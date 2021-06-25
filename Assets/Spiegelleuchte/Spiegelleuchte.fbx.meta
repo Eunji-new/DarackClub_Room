@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 6a81605fed06cbb41a3dc7e19a88bda2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _____Mat_Holder_____________
+    100002: Dichtung
+    100004: "Geh\xE4use"
+    100006: "leuchtstR\xF6hre"
+    100008: "leuchtstR\xF6hre_0"
+    100010: "leuchtstR\xF6hre_2"
+    100012: Licht_
+    100014: Licht__0
+    100016: Licht__2
+    100018: Schalter
+    100020: Spiegel
+    100022: //RootNode
+    100024: "Wandleuchte_R\xF6hre"
+    100026: "W\xFCrfel"
+    100028: Zylinder
+    400000: _____Mat_Holder_____________
+    400002: Dichtung
+    400004: "Geh\xE4use"
+    400006: "leuchtstR\xF6hre"
+    400008: "leuchtstR\xF6hre_0"
+    400010: "leuchtstR\xF6hre_2"
+    400012: Licht_
+    400014: Licht__0
+    400016: Licht__2
+    400018: Schalter
+    400020: Spiegel
+    400022: //RootNode
+    400024: "Wandleuchte_R\xF6hre"
+    400026: "W\xFCrfel"
+    400028: Zylinder
+    2100000: No Name
+    2300000: Dichtung
+    2300002: "leuchtstR\xF6hre"
+    2300004: "leuchtstR\xF6hre_2"
+    2300006: Schalter
+    2300008: Spiegel
+    2300010: "W\xFCrfel"
+    2300012: Zylinder
+    3300000: Dichtung
+    3300002: "leuchtstR\xF6hre"
+    3300004: "leuchtstR\xF6hre_2"
+    3300006: Schalter
+    3300008: Spiegel
+    3300010: "W\xFCrfel"
+    3300012: Zylinder
+    4300000: Spiegel
+    4300002: "leuchtstR\xF6hre"
+    4300004: "leuchtstR\xF6hre_2"
+    4300006: Dichtung
+    4300008: "W\xFCrfel"
+    4300010: Zylinder
+    4300012: Schalter
+    10800000: Licht_
+    10800002: Licht__2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

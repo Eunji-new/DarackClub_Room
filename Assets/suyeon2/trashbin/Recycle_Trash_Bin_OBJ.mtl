@@ -1,0 +1,30 @@
+# Blender MTL File: 'Recycle_Trash_Bin_BLEND.blend'
+# Material Count: 3
+
+newmtl Recycling_Bin_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 1.000000
+Ks 0.450000 0.450000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Keith Watts\Desktop\CGBeast\Other\Misc\Recycle_Trash_Bin\Texture Files\Recycling_Bin_Texture.png
+
+newmtl Shadow_Plane_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Trash_Bin_Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.044454 0.028794 0.022572
+Ks 0.500000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
